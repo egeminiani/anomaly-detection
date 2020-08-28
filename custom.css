@@ -1,0 +1,69 @@
+#main .nav-pills > li.active > a,
+#main .nav-pills > li.active > a:hover,
+#main .nav-pills > li.active > a:focus {
+    background-color: #4ac78c;
+}
+
+#main .nav-pills > li > a:hover {
+    background-color: #4ac78c;
+}
+
+h1, h2, h3, h4, h5, h6, legend {
+    color: #4ac78c;
+}
+
+#nav-top span.glyphicon {
+    color: #4ac78c;
+}
+
+#table-of-contents header {
+    color: #4ac78c;
+}
+
+#table-of-contents h2 {
+    background-color: #4ac78c;
+}
+
+#main a {
+    background-image: linear-gradient(180deg,#41946d,#34d187);
+    color: #4ac78c;
+}
+
+a:hover {
+    color: #4ac78c;
+}
+
+a:visited {
+    color: #4ac78c;
+}
+
+h1,h2,h3,h4,h5,h6,legend{
+    color: #4ac78c;
+}
+
+#sidebar {
+   background: #edf0f2;
+}
+
+
+#sidebar h2{
+    background-color:#4ac78c;
+}
+
+#sidebar h2 a{
+    color:#000000;
+}
+
+#nav-top span.glyphicon {
+  color: #4ac78c;
+}
+
+#postamble{
+	color: #000000;
+    background:#959a9e;
+	border-top:solid 10px #edf0f2;
+}
+
+#content {
+    max-width: 900px !important;
+}
